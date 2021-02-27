@@ -1,0 +1,2 @@
+dwa_local_planner
+-DCATKIN_DEVEL_PREFIX=/home/hdh5/ros_all/learn_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hdh5/ros_all/learn_ws/install -G Unix Makefiles
